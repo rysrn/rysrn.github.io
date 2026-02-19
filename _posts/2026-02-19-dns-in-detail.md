@@ -1,6 +1,6 @@
 ---
 title: "Lab Writeup: DNS in detail"
-date: 2026 15:29:05 +0300
+date: 2026-02-19 15:34:25 +0300
 categories: [Cyber Security, Labs]
 tags: [nmap, dns, tryhackme, writeup]
 ---
