@@ -1,16 +1,9 @@
 ---
-layout: page
 title: Resume
 icon: fas fa-file-alt
 order: 2
 ---
 
----
-layout: page
-title: Resume
-icon: fas fa-file-alt
-order: 2
----
 
 # 🎓 Academic Background
 *   **Bachelor of Science in Information Security and Digital Forensics**, KCA University 2025
@@ -34,7 +27,7 @@ order: 2
 
 # 📜 Certifications & Skills
 *   Fortinet Network Security Expert Level 1: Certified Associate Certification.
-*   Microsoft Azure Certification 
+*   Microsoft Certified: Azure Fundamentals Certification
 *   **Developer Tools and Technologies**: Git, VS Code, Visual Studio, Azure, Nmap, Metasploit.
 *   **Other Skills**: Troubleshooting, Vulnerability assessment, IPv4 Policy Configuration, Firewall Auditing.
 *   **Languages**: Python(currently learning), SQL, HTML, CSS.
