@@ -12,6 +12,7 @@ order: 3
 - **Tools:** HTML5, CSS3, JavaScript, SQL (Database Management)
 - **Technical Focus:** Implementing **Relational Database** structures to track offender history and automate documentation. 
 - **Key Outcome:** Developed a centralized dashboard that eliminates manual paperwork, ensuring historical records are searchable and persistent for municipal oversight.
+
 ---
 
 ## 🐍 Python Development
