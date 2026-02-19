@@ -15,7 +15,7 @@ order: 3
 ---
 
 ## 🐍 Python Development
-**[Weight Converter]((https://github.com/rysrn/weight_converter))**
+**Weight Converter**
 
 *A functional CLI application for unit transformation.*
 - **Focus:** Practicing clean code, **input validation**, and **error handling** to prevent script crashes.
